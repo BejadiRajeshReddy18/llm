@@ -8,3 +8,4 @@ sentence-transformers==2.2.2
 streamlit-extras==0.3.6
 streamlit==1.29.0
 unstructured==0.11.6
+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
